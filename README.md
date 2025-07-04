@@ -41,3 +41,6 @@ rule_engine_api_local_celeryworker  | INFO 2025-07-03 11:18:46,647 trace 58 2814
 # Browse the Swagger-UI
 1. After run the project browse `http://localhost:8000/api/schema/swagger-ui/#`
 ![swagger_ui.png](images/swagger_ui.png)
+
+# Remarks
+- This project has used ChatGPT to evaluate the logic. However, the author of this project rearrange and make decision by himself.
